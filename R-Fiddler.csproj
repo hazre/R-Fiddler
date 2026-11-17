@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Version>2.0.0</Version>
     <Authors>Knackrack615, NepuShiro, LeCloutPanda</Authors>
-    <TargetFramework>net9.0</TargetFramework>
+    <TargetFramework>net11.0</TargetFramework>
     <RepositoryUrl>https://github.com/HGCommunity/R-Fiddler</RepositoryUrl>
     <PackageId>HGCommunity.R-Fiddler</PackageId>
     <Product>R-Fiddler</Product>
